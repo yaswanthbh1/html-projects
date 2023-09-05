@@ -61,10 +61,7 @@ z-index:20;
       .content-container{  align-items:center;
                            text-align: center;
                           width:70%;}
-      .theme-container{
-                            
-                              width:60%;
-                           } 
+      .theme-container{width:60%;} 
       .logo-container{width:80%;}
       .features{flex-direction:column;
                   align-items:center;
