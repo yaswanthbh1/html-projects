@@ -43,6 +43,9 @@ z-index:20;
     justify-content:space-around;
     gap:100px;
 }
+#logor{
+    width:100%;
+}
 .content-container
 {
     display:flex;
@@ -56,7 +59,12 @@ z-index:20;
        nav{ padding:20px;}
       .main-container,.address{flex-direction:column;}
       .content-container{  align-items:center;
-                           text-align: center;}
+                           text-align: center;
+                          width:70%;}
+      .theme-container{
+                            
+                              width:60%;
+                           } 
       .logo-container{width:80%;}
       .features{flex-direction:column;
                   align-items:center;
